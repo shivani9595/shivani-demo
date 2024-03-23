@@ -1,4 +1,4 @@
 # shivani-demo
 This is my first Git Repository.
 <br/>
-Author - shivani Gawade.
+Author - shivani (Web Developer)
